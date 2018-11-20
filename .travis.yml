@@ -13,5 +13,5 @@ after_success: |
   [ $TRAVIS_PULL_REQUEST = false ] &&
   zola build &&
   sudo pip install ghp-import &&
-  ghp-import -n public &&
+  ghp-import -r sthiele.github.io -b master -n public &&
   git push -fq https://${GH_TOKEN}@github.com/sthiele/sthiele.github.io.git master
