@@ -10,6 +10,8 @@ template = "about.html"
 I am an informatician, living in Germany, interested in nature, technology, formal systems, the history of science.
 
 ● [CV](/cv) \
+● [Publications](/publications) \
+● [Software](/software) \
 ● [GitHub](https://github.com/sthiele) \
 ● [Google+](https://plus.google.com/u/0/+SvenThieleDr)
 

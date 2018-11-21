@@ -20,7 +20,6 @@ template = "about.html"
   </tr>
 </table> 
 
-born at 17th September 1978 in Potsdam, Germany
 
 ### Education and Qualifications
 

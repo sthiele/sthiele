@@ -36,8 +36,6 @@ even_title = "sthiele weblog"
 # This is the default menu
 even_menu = [
     {url = "$BASE_URL/tags", name = "Tags"},
-    {url = "$BASE_URL/publications", name = "Publications"},
-    {url = "$BASE_URL/software", name = "Software"},
     {url = "$BASE_URL/about", name = "About"},
 ]
 
