@@ -7,7 +7,7 @@ template = "about.html"
 
 ## Sven Thiele
 
-I am an researcher and informatician, living in Germany, interested in nature, technology, formal systems, the history of science.
+I am a researcher and informatician, living in Germany, interested in nature, technology, formal systems, the history of science.
 
 ● [CV](/cv) \
 ● [Publications](/publications) \
