@@ -3,7 +3,7 @@ title = "First reconstruction of a metabolic network using meneco published in T
 date = 2014-06-01
 
 [taxonomies]
-tags = ["ASP", "Publication"]
+tags = ["ASP", "Publications"]
 +++
 
 ![Journal](https://wol-prod-cdn.literatumonline.com/cms/attachment/3df80d89-6f18-4e7f-a431-afca8dcc03e9/tpj.2014.80.issue-2.cover.jpg)

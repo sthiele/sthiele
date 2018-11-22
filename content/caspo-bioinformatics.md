@@ -3,7 +3,7 @@ title = "ASP application in the Bioinformatics Journal"
 date = 2013-07-01
 
 [taxonomies]
-tags = ["ASP", "Publication"]
+tags = ["ASP", "Publications"]
 +++
 Our first ASP application published in the Bioinformatics Journal
 
