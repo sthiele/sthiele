@@ -1,5 +1,5 @@
 +++
-title = "Publications"
+title = "List of Publications"
 path = "publications"
 template = "page.html"
 date = 2018-10-12
@@ -8,6 +8,9 @@ date = 2018-10-12
 tags = ["Publications"]
 
 +++
+
+See also [google.scholar](https://scholar.google.de/citations?user=ufPMoSAAAAAJ) and [dblp](https://dblp.uni-trier.de/pers/hd/t/Thiele:Sven).
+
 
 ## 2018
 
