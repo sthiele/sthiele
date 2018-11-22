@@ -12,8 +12,9 @@ I am a researcher and informatician, living in Germany, interested in nature, te
 ● [CV](/cv) \
 ● [Publications](/publications) \
 ● [Software](/software) \
-● [GitHub](https://github.com/sthiele) \
-● [Google+](https://plus.google.com/u/0/+SvenThieleDr)
+● [@GitHub](https://github.com/sthiele) \
+● [@Max-Planck-Institute](http://www.mpi-magdeburg.mpg.de/person/28523/842836) \
+● [@Google+](https://plus.google.com/u/0/+SvenThieleDr)
 
 ## How this site is made
 
