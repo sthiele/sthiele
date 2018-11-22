@@ -25,12 +25,12 @@ build_search_index = false
 taxonomies = [
     {name = "tags", rss = true},
 ]
+title = "sthiele::weblog"
 
 [extra]
 # Put all your custom variables here
 
 author = "Sven Thiele"
-# even_title = "sthiele"
 even_title = "sthiele weblog"
 
 # This is the default menu
