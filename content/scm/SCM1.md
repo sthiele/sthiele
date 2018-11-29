@@ -13,20 +13,25 @@ This part is introducing interaction graph models and how they are used by sign 
 
 ## What are interaction graphs?
 
-Interaction or influence graphs are a widely used representation for complex systems. Nodes represent the components or players in the system and edges denote how these components interact with each other. A lot of biological systems have a representation as interaction graph: hunter prey models, gene regulatory networks, signaling networks, etc. Here is a more formal definition.
+Interaction or influence graphs are a widely used representation for complex systems.
+The components or variables of the system are represented by nodes and edges denote how these components interact with each other.
+Many biological systems have a representation as interaction graph: hunter prey models, gene regulatory networks, signaling networks, etc. 
+Here is a more formal definition.
 
 **Definition 1**: 
 *An interaction graph is a signed directed graph (V, E, σ), where
 V is a set of nodes,
 E is a set of edges, and
 σ : E → {+, –} is a labeling of the edges. 
-Every node in V represents a state variable in the modeled system and an edge 
+Every node in V represents a system variable and an edge 
 i→j means that the change of i in time influences the value of j. 
 Every edge i→j of an interaction graph can be labeled with a sign, 
 either + or –, denoted by σ(i,j),
 where + (–) indicates that i tends to increase (decrease) j.*
 
-An example of an interaction graph is given in Figure 1. There exist many variants of interaction graphs some have weighted edges and some have other kind of edges or different types of nodes. But with this definition we will come pretty far.
+An example of an interaction graph is given in Figure 1. 
+There exist many variants of interaction graphs some have weighted edges and some have other kind of edges or different types of nodes. 
+But this definition will suffice us for now.
 
 ![IG1](../scm/IG1.png)
 
@@ -34,13 +39,13 @@ An example of an interaction graph is given in Figure 1. There exist many varian
 
 ## What are signed system changes?
 
-Interaction graphs are an abstraction of dynamic quantitative systems where a quantitative state of the system is a mapping *S<sub>i</sub> : V → ℝ<sup>+</sup>*.
+Interaction graphs are models of dynamic quantitative systems where a quantitative state of the system is a mapping *S<sub>i</sub> : V → ℝ<sup>+</sup>*.
 Sign consistency methods use signs to denote changes in the variables of the modeled system. 
-Examples for such changes could be increased or decreased in metabolite concentrations or expression levels of genes. 
+Examples for such changes could be increase or decrease in metabolite concentrations or expression levels of genes. 
 The signs *+* and *–* are used to denote *increase* and *decrease* and *0* signifies *no-change*. 
-Sign consistency methods relate the IG model of the system and the variations in between system states by representing the variations as labels on the nodes in the graph. 
-For example, the changes between two states of the system can be represented as a sign labeling of the IG. 
-Given two system states *SR* and *SO* the differences between these states can be represented as the labeling *μ<sub>RO</sub> : V →{+,–,0}* with *μ<sub>RO</sub>(x) = sign(x<sub>SO</sub>} - x<sub>SR</sub>)*. 
+Sign consistency methods relate the IG model of the system and the variations between system states by representing the variations as labels on the nodes in the graph. 
+For example, the changes between two states of the system are represented by labeling the nodes of IG with the signs of the change in the corresponding system variable. 
+Given two system states *S<sub>R</sub>* and *S<sub>O</sub>* the differences between these states can be represented as the labeling *μ<sub>RO</sub> : V →{+,–,0}* with *μ<sub>RO</sub>(x) = sign(x<sub>S<sub>O</sub></sub> - x<sub>S<sub>R</sub></sub>)*. 
 See Figure 2 for an example of two states and the corresponding sign labeling.
 We use the colors 
 <span style="background:#AAE6AA">&nbsp;&nbsp;&nbsp;&nbsp;</span>,
@@ -54,7 +59,9 @@ We use the colors
 
 ## Sign consistency rules
 
-Further, sign consistency methods define rules that determine which labelings of the graph are considered consistent and which are considered inconsistent. There exist several different consistency rules which are useful to model different properties of a biological system. For now we only consider the following.
+Sign consistency methods define rules that determine which labelings of the graph are considered consistent and which are considered inconsistent.
+There exist several different consistency rules which are useful to model different properties of a biological system. 
+For now we only consider the following.
 
 **Rule 1 (backwards propagation)**
 Every change in a node must be explained by a change in one of its predecessors.
@@ -68,8 +75,8 @@ Given an effect we look backwards to verify its cause.
 Labelings that are consistent with this rule represent the differences between steady states. 
 In a steady state the values of all state variables are balanced. 
 Hence, the change in one variable must be sustained by the change in one of its predecessors. 
-In other words, if *SR* and *SO* are steady states of the system then the labeling *μ<sub>RO</sub>* is consistent with *Rule 1*. 
-The trivial example is when both state are the same *SR = SO* then nothing changes *∀x ∈ V : μ<sub>RO</sub>(x) = 0*.
+In other words, if *S<sub>R</sub>* and *S<sub>O</sub>* are steady states of the system then the labeling *μ<sub>RO</sub>* is consistent with *Rule 1*. 
+The trivial example is when both states are the same *S<sub>R</sub> = S<sub>O</sub>* then nothing changes *∀x ∈ V : μ<sub>RO</sub>(x) = 0*.
 
 Let’s see what else we can do with that. 
 *Figure 3* shows an interaction graph and all labelings *μ<sub>i</sub> : V →{+,–,0}* with *μ<sub>i</sub>(a) = +* that satisfy *Rule 1*.
@@ -82,7 +89,7 @@ Often it is useful to represent the labelings in a table as shown in *Table 1*.
 As you can see, there exist only four labelings that satisfy these constraints. 
 In every of these labeling it holds *μ<sub>i</sub>(e) = +* and *μ<sub>i</sub>(f) = –*.
 We can use this table to predict the behavior of the system. 
-We see that in every steady state, with an increase in a we also have an increase in *e* and a decrease in *f*.
+We see that in every steady state, with an increase in *a* we also have an increase in *e* and a decrease in *f*.
 For *b* and *c* we can predict that they will not decrease, and for *d* that it will not increase.
 
 ![CT1](/scm/CT1.png)
