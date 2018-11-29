@@ -33,7 +33,7 @@ An example of an interaction graph is given in Figure 1.
 There exist many variants of interaction graphs some have weighted edges and some have other kind of edges or different types of nodes. 
 But this definition will suffice us for now.
 
-![IG1](../scm/IG1.png)
+![IG1](/scm/IG1.png)
 
 **Fig. 1**: Example of an interaction graph. Green arrows indicate positive (+) influence, red edges negative (–) influence.
 
