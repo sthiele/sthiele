@@ -13,7 +13,7 @@ In this series I want to explain how interaction graph models and sign consisten
 ## CONTENTS
 
 [**Interaction graphs and signed system changes**](/scm/scm1) \
-[**Predicting system responses to perturbations**](/scm/scm2) \
+[**Modeling open systems inputs and perturbations**](/scm/scm2) \
 [**Minimum and maximum level constraints**](/scm/scm3) \
 [**Predicting effects on downstream regulated variables**](/scm/scm4) \
 [**Predicting effects on cooperatively regulated variables**](/scm/scm5) \

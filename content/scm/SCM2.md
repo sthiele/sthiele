@@ -1,5 +1,5 @@
 +++
-title = "Predicting system responses to perturbations"
+title = "Modeling open systems inputs and perturbations"
 date = 2016-06-01
 
 [taxonomies]
@@ -11,13 +11,15 @@ tags = ["sign-consistency"]
 
 This is Part 2 of the [sign consistency series](/scm).
 In [Part 1](/scm/scm1) of this series we learned how to use interaction graphs and sign consistency methods to reason about steady states in closed systems. 
-In this part we add external influences to our model and answer the question how a biological system responds to external influences.
+In this part we add inputs to our model and answer the question how a biological system responds to external influences.
 
 ## Inputs and perturbations
 
-Most systems interact in some ways with a surrounding context i.e. their environment. 
-The interface to the environment is provided by variables which are not controlled by the modeled system itself but externally. 
-We call variables in our system which are controlled externally *inputs* and 
+Most systems interact in some ways with a surrounding environment.
+To reason over systems response to different environmental settings we introduce *input* variables.
+Input variables are not controlled by the system but represent external influences on the system.
+Such *inputs* could be stressors like temperature, light or drugs.
+In an IG *(E,V)*
 we denote the set of nodes that represent input variables with *I ⊆ V*. 
 Because input nodes are controlled externally,
 they are excluded from the sign consistency rules.
