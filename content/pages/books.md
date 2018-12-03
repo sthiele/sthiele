@@ -12,7 +12,7 @@ tags = ["Reading"]
 ## Oktober 2018
 
 Wilhelm Schmid - Dem Leben Sinn geben \
-Stadt aus Glass
+[David Mazzucchelli, Paul Karasik - Paul Austers Stadt aus Glass](https://smile.amazon.de/gp/product/3864971047)
 
 ## September 2018
 
