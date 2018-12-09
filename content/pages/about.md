@@ -14,7 +14,8 @@ I am a researcher and informatician, living in Germany, interested in nature, te
 ● [Software](/software) \
 ● [@GitHub](https://github.com/sthiele) \
 ● [@Max-Planck-Institute](http://www.mpi-magdeburg.mpg.de/person/28523/842836) \
-● [@Google+](https://plus.google.com/u/0/+SvenThieleDr)
+● [@Google+](https://plus.google.com/u/0/+SvenThieleDr) \
+● [@Mastodon](https://scholar.social/@sthiele)
 
 ## How this site is made
 
