@@ -2,9 +2,10 @@
 title = "PyASP basics"
 date = 2015-10-01
 
+aliases = ["posts/2015/october/pyasp_intro.html"]
+
 [taxonomies]
 tags = ["ASP"]
-aliases = ["posts/2015/october/pyasp_intro.html"]
 +++
 
 This post explains the basics on how to use the PyASP library.
