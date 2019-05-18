@@ -9,32 +9,32 @@ tags = ["Reading"]
 
 +++
 
-## November, Dezember 2018
+## Feburary - May 2019
+
+[Tolstoi, Lew](https://www.goodreads.com/author/show/128382.Leo_Tolstoy) - [Der Tod des Iwan Iljitsch](https://www.goodreads.com/book/show/3924200-der-tod-des-iwan-iljitsch) \
+[Brecht, Bertolt](https://www.goodreads.com/author/show/26853.Bertolt_Brecht) - [Leben des Galilei](https://www.goodreads.com/book/show/241526.Leben_des_Galilei) \
+[Ishiguro, Kazuo](https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro) - [Never Let Me Go](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go) \
+[Hein, Christoph](https://www.goodreads.com/author/show/157560.Christoph_Hein) - [Trutz](https://www.goodreads.com/book/show/34639026-trutz) \
+[Harari, Yuval Noah](https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari) - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens)
+
+## January 2019
+
+[John Steinbeck](https://www.goodreads.com/author/show/585.John_Steinbeck) - [The Grapes of Wrath](https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath)
+
+## 2018
 
 [Hannah Arendt - Über die Revolution]() \
-[Erich Maria Remarque - Im Westen nichts Neues]() 
-
-## Oktober 2018
-
+[Erich Maria Remarque - Im Westen nichts Neues]() \
 [Wilhelm Schmid - Dem Leben Sinn geben]() \
-[David Mazzucchelli, Paul Karasik - Paul Austers Stadt aus Glass](https://smile.amazon.de/gp/product/3864971047)
-
-## September 2018
-
+[David Mazzucchelli, Paul Karasik - Paul Austers Stadt aus Glass](https://smile.amazon.de/gp/product/3864971047) \
 [Bertold Brecht - Mutter Courage und ihre Kinder](https://smile.amazon.de/gp/product/) \
 [Bertold Brecht - Der gute Mensch von Sezuan](https://smile.amazon.de/gp/product/) \
 [Stephen Hawking - A Brief History of Time](https://smile.amazon.de/gp/product/) \
-[Thomas Mann - Der Zauberberg](https://smile.amazon.de/gp/product/)
-
-## April, May, June 2018
-
+[Thomas Mann - Der Zauberberg](https://smile.amazon.de/gp/product/) \
 [Fjodor M. Dostojewskij - Der Idiot]() \
 [Hermann Hesse - Kurgast](https://de.wikipedia.org/wiki/Kurgast) \
 [Hans Falada - Wer einmal aus dem Blechnapf fraß](https://smile.amazon.de/gp/product/3746627435) \
-[Hans Falada - Wolf unter Wölfen](https://smile.amazon.de/gp/product/3746626781)
-
-## Januar - März 2018
-
+[Hans Falada - Wolf unter Wölfen](https://smile.amazon.de/gp/product/3746626781) \
 [Fjodor M. Dostojewskij - Die Brüder Karamasow](https://smile.amazon.de/gp/product/3596163587) \
 [Art Spiegelman - Die Vollständige Maus](https://smile.amazon.de/gp/product/3596180945) \
 [Osamu Tezuka - Buddah](https://smile.amazon.de/gp/product/B01N07L0MZ) \
@@ -83,7 +83,6 @@ tags = ["Reading"]
 
 [**Neal Stephenson - "Seveneves"**](https://smile.amazon.de/gp/product/B00R0RGSLG) \
   Too long descriptions of boring fictional lasso swinging technology.
-
 
 
 ## 2015
@@ -172,5 +171,21 @@ The book is a dystopia of the post privacy society.
   Der Verführer in diesem Buch ist ein Ästhet der rücksichtslos den sinnlichen Prozess der Verführung genießt.
   Lesenswert.
 
+## Unknown date
 
+Hector und die Suche nach dem Glück \
+Cold Lunch \
+Schlachthof 5 \
+The Hichthikers Guide Through the Galaxy - a Trilogy in 5 Parts \
+Lolita - Vladimir Nabokov \
+Romeo und Julia, Orthello, der Sturm, Macbeth, Hamlet - William Shakespeare \
+Solaris, etc.  - Stanislav Lem \
+Picknick am Wegesrand, Die dunkle Stadt, Die Schnecke am Hang, Boris und Arkardi Strugatzki (Sowjetische Phantastik, Science Fiction) \
+1948, Die Farm der Tiere, Krieg der Welten \
+Fahrenheit  \
+Dr. Jeckyll und Mr. Hyde, Die Schatzinsel (Kinderfassung) - Robert Luis Stevenson \
+Robinson Crusoe - Daniel Defoe \
+Annihilation 
+
+## Box1
 

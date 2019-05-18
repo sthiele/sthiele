@@ -31,7 +31,7 @@ title = "sthiele::weblog"
 # Put all your custom variables here
 
 author = "Sven Thiele"
-even_title = "sthiele weblog"
+even_title = "sthiele"
 
 # This is the default menu
 even_menu = [
