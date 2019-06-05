@@ -12,9 +12,9 @@ tags = ["Publications"]
 See also [google.scholar](https://scholar.google.de/citations?user=ufPMoSAAAAAJ) and [dblp](https://dblp.uni-trier.de/pers/hd/t/Thiele:Sven).
 
 
-## 2018
+## 2019
 
-[Designing optimal experiments to discriminate interaction graph models](https://doi.org/10.1109/TCBB.2018.2812184), Sven Thiele, Sandra Heise, Wiebke Hessenkemper, Hannes Bongartz, Melissa Fensky, Fred Schaper, Steffen Klamt, *IEEE/ACM Trans. Comput. Biol. Bioinform*, 2018, early access.
+[Designing optimal experiments to discriminate interaction graph models](https://doi.org/10.1109/TCBB.2018.2812184), Sven Thiele, Sandra Heise, Wiebke Hessenkemper, Hannes Bongartz, Melissa Fensky, Fred Schaper, Steffen Klamt, *IEEE/ACM Trans. Comput. Biol. Bioinform*, 16(3), 2019.
 
 ## 2017
 
