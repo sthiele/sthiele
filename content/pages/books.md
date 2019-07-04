@@ -9,6 +9,10 @@ tags = ["Reading"]
 
 +++
 
+## June - July 2019
+
+[Seghers, Anna](https://www.goodreads.com/author/show/262916.Anna_Seghers) - [Das siebte Kreuz](https://www.goodreads.com/book/show/1769122.Das_siebte_Kreuz)
+
 ## Feburary - May 2019
 
 [Tolstoi, Lew](https://www.goodreads.com/author/show/128382.Leo_Tolstoy) - [Der Tod des Iwan Iljitsch](https://www.goodreads.com/book/show/3924200-der-tod-des-iwan-iljitsch) \
