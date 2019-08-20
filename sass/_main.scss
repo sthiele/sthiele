@@ -74,6 +74,32 @@ main {
         background-color: $secondary-colour;
       }
     }
+    
+    .footnote-definition {
+      padding-left: 40px;
+
+      &:first-of-type {
+        border-top: 2px dashed $main-colour;
+        margin-top: 1rem;
+        padding-top: 1rem;
+      }
+
+      sup {
+        &.footnote-definition-label {
+          font-size: 100%;
+          position: unset;
+          top: unset;
+
+          &::after {
+            content: '.';
+          }
+        }
+      }
+
+      p {
+        display: inline;
+      }
+    }
 
     &__title {
       margin: 0;
