@@ -43,8 +43,8 @@ tags = ["Reading"]
 [Erich Maria Remarque - Im Westen nichts Neues]() \
 [Wilhelm Schmid - Dem Leben Sinn geben]() \
 [David Mazzucchelli, Paul Karasik - Paul Austers Stadt aus Glass](https://smile.amazon.de/gp/product/3864971047) \
-[Bertold Brecht - Mutter Courage und ihre Kinder](https://smile.amazon.de/gp/product/) \
-[Bertold Brecht - Der gute Mensch von Sezuan](https://smile.amazon.de/gp/product/) \
+[Brecht, Bertolt](https://www.goodreads.com/author/show/26853.Bertolt_Brecht) - [Mutter Courage und ihre Kinder](https://smile.amazon.de/gp/product/) \
+[Brecht, Bertolt](https://www.goodreads.com/author/show/26853.Bertolt_Brecht) - [Der gute Mensch von Sezuan](https://smile.amazon.de/gp/product/) \
 [Stephen Hawking - A Brief History of Time](https://smile.amazon.de/gp/product/) \
 [Thomas Mann - Der Zauberberg](https://smile.amazon.de/gp/product/) \
 [Fjodor M. Dostojewskij - Der Idiot]() \
@@ -59,9 +59,9 @@ tags = ["Reading"]
 ## 2017
 
 [Iwan Turgenew - Väter und Söhne](https://smile.amazon.de/gp/product/3843083177) \
-[Lew Tolstoi - Krieg und Frieden](https://smile.amazon.de/gp/product/3491960541) \
-[Lew Tolstoi - Anna Karenina](https://smile.amazon.de/gp/product/3746661110) \
-[Lew Tolstoi - Auferstehung](https://smile.amazon.de/gp/product/3849695794) \
+[Tolstoi, Lew](https://www.goodreads.com/author/show/128382.Leo_Tolstoy) - [Krieg und Frieden](https://smile.amazon.de/gp/product/3491960541) \
+[Tolstoi, Lew](https://www.goodreads.com/author/show/128382.Leo_Tolstoy) - [Anna Karenina](https://smile.amazon.de/gp/product/3746661110) \
+[Tolstoi, Lew](https://www.goodreads.com/author/show/128382.Leo_Tolstoy) - [Auferstehung](https://smile.amazon.de/gp/product/3849695794) \
 [Alexander Solschenizyn - Der Archipel GULAG 1](https://smile.amazon.de/gp/product/359618424X) \
 [Françoise Sagan - Lieben Sie Brahms](https://smile.amazon.de/gp/product/3803126649) \
 [Nikolai Wassiljewitsch Gogol - Tote Seelen](https://smile.amazon.de/gp/product/B004UBAHFS) \
