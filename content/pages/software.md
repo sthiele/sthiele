@@ -11,7 +11,7 @@ tags = ["Software"]
 
 Current projects:
 
-* [`clingo-rs`](https://github.com/sthiele/clingo-rs) - Rust bindings to the clingo library.
+* [`clingo-rs`](https://github.com/potassco/clingo-rs) - Rust bindings to the clingo library.
 * [`meneco`](https://github.com/bioasp/meneco) - A tool to compute optimal extensions for a metabolic network.
 * [`iggy`](https://github.com/bioasp/iggy) - Tools for the consistency based analysis (consistency check, diagnosis, repair and prediction) of influence graphs models and experimental observations.
 * [`exdesi`](https://github.com/bioasp/exdesi) - Design experiments to differentiate interaction graph models.

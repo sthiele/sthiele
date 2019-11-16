@@ -4,6 +4,8 @@
   justify-content: space-between;
 
   .logo {
+    font-family: Chancery, cursive, LiSu, sans-serif;
+    font-weight: 400;
     a {
       color: $main-colour;
       font-size: 48px;
@@ -13,6 +15,7 @@
 
   .menu {
     align-self: flex-start;
+    font-family: $decoration-font-family;
 
     ul {
       display: inline-block;

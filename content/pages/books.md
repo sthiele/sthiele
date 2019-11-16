@@ -9,6 +9,18 @@ tags = ["Reading"]
 
 +++
 
+## November
+
+[Diderot, Denis](https://www.goodreads.com/author/show/11004.Denis_Diderot) - [Die Nonne](https://www.goodreads.com/book/show/4485897-die-nonne)
+
+## October
+
+[Fontane, Theodor](https://www.goodreads.com/author/show/68613.Theodor_Fontane) - [Mathilde Möhring](https://www.goodreads.com/book/show/47178963-mathilde-m-hring)
+
+## August - September
+
+[Herbert, Frank](https://www.goodreads.com/author/show/58.Frank_Herbert) - [Dune: The Gateway Collection](https://www.goodreads.com/book/show/44323246-dune)
+
 ## June - July 2019
 
 [Seghers, Anna](https://www.goodreads.com/author/show/262916.Anna_Seghers) - [Das siebte Kreuz](https://www.goodreads.com/book/show/1769122.Das_siebte_Kreuz)

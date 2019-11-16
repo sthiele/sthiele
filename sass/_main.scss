@@ -11,8 +11,9 @@ main {
   }
 
   .read-more a {
-    font-size: 1.0rem;
     color: $main-colour;
+    font-family: $decoration-font-family;
+    font-size: 1.1rem;
     @include underline-from-center; 
   }
 
@@ -20,6 +21,14 @@ main {
   .post {
     padding: 1.5rem 0;
 
+    .post__title {
+      font-family: $decoration-font-family;
+
+      a {
+        color: #34495e;
+      }
+    }
+
     h2, h3, h4, h5, h6 {
       font-weight: 600;
     }
@@ -102,10 +111,15 @@ main {
     }
 
     &__title {
-      margin: 0;
       font-size: 30px;
       font-weight: 600;
+      font-family: $decoration-font-family;
+      margin: 2rem 0;
 /*       @include underline-from-center; */
+
+      a {
+        color: #34495e;
+      }
     }
 
     &__category {
