@@ -9,32 +9,21 @@ tags = ["Reading"]
 
 +++
 
-## November
+## 2019
 
-[Diderot, Denis](https://www.goodreads.com/author/show/11004.Denis_Diderot) - [Die Nonne](https://www.goodreads.com/book/show/4485897-die-nonne)
-
-## October
-
-[Fontane, Theodor](https://www.goodreads.com/author/show/68613.Theodor_Fontane) - [Mathilde Möhring](https://www.goodreads.com/book/show/47178963-mathilde-m-hring)
-
-## August - September
-
-[Herbert, Frank](https://www.goodreads.com/author/show/58.Frank_Herbert) - [Dune: The Gateway Collection](https://www.goodreads.com/book/show/44323246-dune)
-
-## June - July 2019
-
+[Márquez, Gabriel García](https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez) - [Erinnerung an meine traurigen Huren](https://www.goodreads.com/book/show/1210234.Erinnerung_an_meine_traurigen_Huren), Translator [Dagmar Ploetz](https://www.goodreads.com/author/show/504.Dagmar_Ploetz) \
+[di Lampedusa, Guiseppe Tomasi](https://www.goodreads.com/author/show/8407795.Giuseppe_Tomasi_di_Lampedusa) - [Der Leopard](https://www.goodreads.com/book/show/283886.Der_Leopard), Translator Charlotte Birnbaum\
+[Büchner, Georg](https://www.goodreads.com/author/show/94147.Georg_B_chner) - [Woyzeck/Leonce und Lena](https://www.goodreads.com/book/show/162326.Woyzeck_Leonce_und_Lena) \
+[Zweig, Stefan](https://www.goodreads.com/author/show/25573.Stefan_Zweig) - [Joseph Fouché: Bildnis eines politischen Menschen](https://www.goodreads.com/book/show/1988256.Joseph_Fouch_) \
+[Diderot, Denis](https://www.goodreads.com/author/show/11004.Denis_Diderot) - [Die Nonne](https://www.goodreads.com/book/show/4485897-die-nonne) \
+[Fontane, Theodor](https://www.goodreads.com/author/show/68613.Theodor_Fontane) - [Mathilde Möhring](https://www.goodreads.com/book/show/47178963-mathilde-m-hring) \
+[Herbert, Frank](https://www.goodreads.com/author/show/58.Frank_Herbert) - [Dune: The Gateway Collection](https://www.goodreads.com/book/show/44323246-dune) \
 [Seghers, Anna](https://www.goodreads.com/author/show/262916.Anna_Seghers) - [Das siebte Kreuz](https://www.goodreads.com/book/show/1769122.Das_siebte_Kreuz)
-
-## Feburary - May 2019
-
 [Tolstoi, Lew](https://www.goodreads.com/author/show/128382.Leo_Tolstoy) - [Der Tod des Iwan Iljitsch](https://www.goodreads.com/book/show/3924200-der-tod-des-iwan-iljitsch) \
 [Brecht, Bertolt](https://www.goodreads.com/author/show/26853.Bertolt_Brecht) - [Leben des Galilei](https://www.goodreads.com/book/show/241526.Leben_des_Galilei) \
 [Ishiguro, Kazuo](https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro) - [Never Let Me Go](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go) \
 [Hein, Christoph](https://www.goodreads.com/author/show/157560.Christoph_Hein) - [Trutz](https://www.goodreads.com/book/show/34639026-trutz) \
-[Harari, Yuval Noah](https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari) - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens)
-
-## January 2019
-
+[Harari, Yuval Noah](https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari) - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens) \
 [John Steinbeck](https://www.goodreads.com/author/show/585.John_Steinbeck) - [The Grapes of Wrath](https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath)
 
 ## 2018
