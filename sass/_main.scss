@@ -21,14 +21,22 @@ main {
   .post {
     padding: 1.5rem 0;
 
-    .post__title {
-      font-family: $decoration-font-family;
-
-      a {
-        color: #34495e;
-      }
-    }
-
+    .post__title {
+
+      font-family: $decoration-font-family;
+
+
+
+      a {
+
+        color: #34495e;
+
+      }
+
+    }
+
+
+
     h2, h3, h4, h5, h6 {
       font-weight: 600;
     }
@@ -42,7 +50,6 @@ main {
 
     p > a {
       color: $main-colour;
-      word-break: break-all;
 
       &:hover {
         border-bottom: 1px solid $main-colour;
@@ -116,9 +123,12 @@ main {
       font-family: $decoration-font-family;
       margin: 2rem 0;
 /*       @include underline-from-center; */
-
-      a {
-        color: #34495e;
+
+
+      a {
+
+        color: #34495e;
+
       }
     }
 

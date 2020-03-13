@@ -9,6 +9,17 @@ tags = ["Reading"]
 
 +++
 
+## 2020
+
+
+### March
+
+[Gibson, William](https://www.goodreads.com/author/show/9226.William_Gibson) - [Agency](https://www.goodreads.com/book/show/40179612-agency)
+
+### January
+
+[Brokken, Jan](https://www.goodreads.com/author/show/1182281.Jan_Brokken) - [Sibirische Sommer mit Dostojewski](https://www.goodreads.com/book/show/43455861-sibirische-sommer-mit-dostojewski)
+
 ## 2019
 
 [Márquez, Gabriel García](https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez) - [Erinnerung an meine traurigen Huren](https://www.goodreads.com/book/show/1210234.Erinnerung_an_meine_traurigen_Huren), Translator [Dagmar Ploetz](https://www.goodreads.com/author/show/504.Dagmar_Ploetz) \
