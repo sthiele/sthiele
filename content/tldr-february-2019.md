@@ -6,7 +6,7 @@ date = 2014-06-01
 tags = ["PD"]
 +++
 
-# TLDR  February 2019
+## TLDR  February 2019
 
 https://posteo.de/en/site/features#featuresemail
 
@@ -29,7 +29,6 @@ https://www.heise.de/tr/artikel/Das-Hormon-der-Hundertjaehrigen-3594665.html
 https://www.heise.de/tr/artikel/Experimentieren-mit-Glas-3636192.html
 https://www.heise.de/tr/artikel/Internet-jetzt-aber-sicher-3595509.html?seite=2
 https://www.reddit.com/r/compsci/comments/4mgvxt/grovers_search_algorithm_quantum_computers/
-
 
 https://en.wikipedia.org/wiki/Alfred_North_Whitehead
 https://en.wikipedia.org/wiki/Norman_Rockwell#Personal_life

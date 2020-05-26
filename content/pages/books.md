@@ -38,15 +38,15 @@ tags = ["Reading"]
 
 ## 2018
 
-[Hannah Arendt - Über die Revolution]() \
-[Erich Maria Remarque - Im Westen nichts Neues]() \
-[Wilhelm Schmid - Dem Leben Sinn geben]() \
+[Hannah Arendt - Über die Revolution](https://de.wikipedia.org/wiki/%C3%9Cber_die_Revolution) \
+[Erich Maria Remarque - Im Westen nichts Neues](https://de.wikipedia.org/wiki/Im_Westen_nichts_Neues) \
+[Wilhelm Schmid - Dem Leben Sinn geben](https://www.goodreads.com/author/show/266631.Wilhelm_Schmid) \
 [David Mazzucchelli, Paul Karasik - Paul Austers Stadt aus Glass](https://smile.amazon.de/gp/product/3864971047) \
 [Brecht, Bertolt](https://www.goodreads.com/author/show/26853.Bertolt_Brecht) - [Mutter Courage und ihre Kinder](https://smile.amazon.de/gp/product/) \
 [Brecht, Bertolt](https://www.goodreads.com/author/show/26853.Bertolt_Brecht) - [Der gute Mensch von Sezuan](https://smile.amazon.de/gp/product/) \
 [Stephen Hawking - A Brief History of Time](https://smile.amazon.de/gp/product/) \
 [Thomas Mann - Der Zauberberg](https://smile.amazon.de/gp/product/) \
-[Fjodor M. Dostojewskij - Der Idiot]() \
+[Fjodor M. Dostojewskij - Der Idiot](https://de.wikipedia.org/wiki/Der_Idiot) \
 [Hermann Hesse - Kurgast](https://de.wikipedia.org/wiki/Kurgast) \
 [Hans Falada - Wer einmal aus dem Blechnapf fraß](https://smile.amazon.de/gp/product/3746627435) \
 [Hans Falada - Wolf unter Wölfen](https://smile.amazon.de/gp/product/3746626781) \
@@ -91,14 +91,11 @@ tags = ["Reading"]
 [William Hertling - The Last Firewall](https://smile.amazon.de/gp/product/B00EEIGHDI/) \
 [William Hertling - The Turing Exception](https://smile.amazon.de/gp/product/B00UGIOCUK/)
 
-
 [**Anna Seghers - Das siebte Kreuz (gekürzte Comicfassung)**](https://www.amazon.de/gp/product/3351036043/) \
   Es handelte sich um eine aus dem englischen rückübersetze Comicversion. Macht aber Lust auf das Original.
 
-
 [**Neal Stephenson - "Seveneves"**](https://smile.amazon.de/gp/product/B00R0RGSLG) \
   Too long descriptions of boring fictional lasso swinging technology.
-
 
 ## 2015
 
@@ -128,7 +125,7 @@ Joe Haldeman - The Forever War \
 [Joe Haldeman - The Accidental Time Machine](https://smile.amazon.de/gp/product/B00AJ1ZSJ8)
 
 [**Dave Eggers - The Circle**](https://smile.amazon.de/gp/product/0241970377)\
-The book is a dystopia of the post privacy society. 
+The book is a dystopia of the post privacy society.
 
 ## 2014
 
@@ -156,7 +153,7 @@ The book is a dystopia of the post privacy society.
 ## 2012
 
 [Miguel de Cervantes - Der sinnreiche Junker Don Quijote von der Mancha - Erstes Buch](https://smile.amazon.de/gp/product/B004UBEPFQ) \
-[Anton Tschechow - Drei Schwestern](https://smile.amazon.de/gp/product/B00507T6X0) 
+[Anton Tschechow - Drei Schwestern](https://smile.amazon.de/gp/product/B00507T6X0)
 [Neal Stephenson - Cryptonomicon](https://smile.amazon.de/gp/product/B004OL2CM0) \
 [Neal Stephenson - Quicksilver (Barock-Zyklus 1)](https://smile.amazon.de/gp/product/B004OL2CMK) \
 [Neal Stephenson - Confusion (Barock-Zyklus 2)](https://smile.amazon.de/gp/product/B004OL2CNE) \
@@ -168,21 +165,20 @@ The book is a dystopia of the post privacy society.
 [Arkardy and Boris Strugatzki - Gesammelte Werke 4](https://smile.amazon.de/gp/product/B007037XVE)
 
 <!--[Anton Tschechow - Die Möwe](https://smile.amazon.de/gp/product/B004UBE5AG) 
-[Anton Tschechow - Onkel Wanja](https://smile.amazon.de/gp/product/B00507V3UO)--> 
+[Anton Tschechow - Onkel Wanja](https://smile.amazon.de/gp/product/B00507V3UO)-->
 
 [**Orhan Pamuk - Die weiße Festung**](http://smile.amazon.de/gp/product/3596177626)\
   Das Buch war ein Weihnachtsgeschenk meiner Freundin zur Vorbereitung auf unseren Urlaub in Istanbul.
   Leider hält das Buch nicht was der Literatur Nobelpreis des Autors und die eigentlich interessante
-  Ausgangskonstellation versprechen. 
-  Der Roman handelt von einem jungen Venezianer der im 17. Jahrhundert als Sklave in Istanbul strandet. 
-  Dort gerät er in die Hände eines wissbegierigen Gelehrten dem er auf verblüffende Weise ähnelt. 
+  Ausgangskonstellation versprechen.
+  Der Roman handelt von einem jungen Venezianer der im 17. Jahrhundert als Sklave in Istanbul strandet.
+  Dort gerät er in die Hände eines wissbegierigen Gelehrten dem er auf verblüffende Weise ähnelt.
   Was der Anfang eines spannenden Abenteuers sein könnte wird zum langweiligsten Buch das Ich seit langem
   gelesen habe.
 
-
 [**Sören Kirkegaard - Tagebuch des Verführers**](http://smile.amazon.de/gp/product/3458321055/)\
-  Ein Briefroman, eigentlich ein Teil aus Kierkegaards größerem Werk "Entweder - Oder ". 
-  Geschildert wird die Verführung eines Mädchens. 
+  Ein Briefroman, eigentlich ein Teil aus Kierkegaards größerem Werk "Entweder - Oder ".
+  Geschildert wird die Verführung eines Mädchens.
   Der Verführer in diesem Buch ist ein Ästhet der rücksichtslos den sinnlichen Prozess der Verführung genießt.
   Lesenswert.
 
@@ -200,7 +196,6 @@ Picknick am Wegesrand, Die dunkle Stadt, Die Schnecke am Hang, Boris und Arkardi
 Fahrenheit  \
 Dr. Jeckyll und Mr. Hyde, Die Schatzinsel (Kinderfassung) - Robert Luis Stevenson \
 Robinson Crusoe - Daniel Defoe \
-Annihilation 
+Annihilation
 
 ## Box1
-
