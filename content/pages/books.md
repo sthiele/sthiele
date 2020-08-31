@@ -9,7 +9,18 @@ tags = ["Reading"]
 
 +++
 
+## Current Reading Stack
+
+[**Bertrand Russell**](https://en.wikipedia.org/wiki/Bertrand_Russell) - [**A History of Western Philosophy**](https://en.wikipedia.org/wiki/A_History_of_Western_Philosophy) \
+ This is on my stack since 2019. It's a pretty dense and comprehensiv history of philosophy mostly philosophers in the West. I started pretty enthusiastic with the ancient philosphers but later on skipped some parts Currently, I am at the thirteenth century and .. the Middle Ages are pretty heavy on religion. I hope to soon reach modern philosophy which hopefully I can relate more to.
+
 ## 2020
+
+### July
+
+[Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan) - [Permutation City](https://en.wikipedia.org/wiki/Permutation_City) \
+[Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan) - [Diaspora](https://en.wikipedia.org/wiki/Diaspora_(novel)) \
+[Martin Suter](https://en.wikipedia.org/wiki/Martin_Suter) - Der letzte Weynfeldt
 
 ### March
 
