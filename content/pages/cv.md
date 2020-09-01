@@ -6,6 +6,7 @@ template = "about.html"
 +++
 
 ### Personal Details
+
 <table style="width:100%">
   <tr>
     <th style="min-width:120px">Name:</td>
@@ -14,12 +15,11 @@ template = "about.html"
   <tr>
     <th>Adress:</td>
     <td>Max Planck Institute for Dynamics of Complex Technical Systems </br>
-	Sandtorstraße 1 </br>
-	39106 Magdeburg - Germany
+  Sandtorstraße 1 </br>
+  39106 Magdeburg - Germany
     </td>
   </tr>
-</table> 
-
+</table>
 
 ### Education and Qualifications
 
@@ -38,7 +38,7 @@ template = "about.html"
     <th>1999 - 2007</td>
     <td>Diploma studies of Computer Science at the University of Potsdam</td>
   </tr>
-</table> 
+</table>
 
 ###  Work Experience and other Activities
 <table style="width:100%">

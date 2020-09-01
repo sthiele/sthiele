@@ -6,7 +6,7 @@ date = 2017-03-01
 tags = ["CNA", "Video"]
 +++
 
-I created some video tutorials for [CellNetAnalyzer](https://www2.mpi-magdeburg.mpg.de/projects/cna/cna.html), 
+I created some video tutorials for [CellNetAnalyzer](https://www2.mpi-magdeburg.mpg.de/projects/cna/cna.html),
 the software we develop at work.
 I uploaded the first video to youtube.
 
@@ -14,9 +14,8 @@ I uploaded the first video to youtube.
 
 <!-- more -->
 
-**Tools**
+## Tools
 
 The video was captured using [simplescreenrecorder](http://www.maartenbaert.be/simplescreenrecorder/),
 for the voice over I used a text to speech system,
 and the video editing was done with [kdenlive](https://kdenlive.org).
-
