@@ -14,7 +14,7 @@ I uploaded the first video to youtube.
 
 <!-- more -->
 
-## Tools
+### Tools
 
 The video was captured using [simplescreenrecorder](http://www.maartenbaert.be/simplescreenrecorder/),
 for the voice over I used a text to speech system,
