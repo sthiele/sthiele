@@ -14,21 +14,29 @@ tags = ["Reading"]
 [**Bertrand Russell**](https://en.wikipedia.org/wiki/Bertrand_Russell) - [**A History of Western Philosophy**](https://en.wikipedia.org/wiki/A_History_of_Western_Philosophy) \
  This is on my stack since 2019. It's a pretty dense and comprehensiv history of philosophy mostly philosophers in the West. I started pretty enthusiastic with the ancient philosphers but later on skipped some parts Currently, I am at the thirteenth century and .. the Middle Ages are pretty heavy on religion. I hope to soon reach modern philosophy which hopefully I can relate more to.
 
+## 2021
+
+# April
+
+[Heinrich Mann](https://de.wikipedia.org/wiki/Heinrich_Mann) - [Der Untertan](https://de.wikipedia.org/wiki/Der_Untertan) \
+[Eric Emmanuel Schmitt](https://en.wikipedia.org/wiki/%C3%89ric-Emmanuel_Schmitt) - [Oskar und die Dame in Rosa](https://de.wikipedia.org/wiki/Oskar_und_die_Dame_in_Rosa) \
+[Eric Emmanuel Schmitt](https://en.wikipedia.org/wiki/%C3%89ric-Emmanuel_Schmitt) - [Das Kind von Noah](https://de.wikipedia.org/wiki/Das_Kind_von_Noah) \
+[Juli Zeh](https://en.wikipedia.org/wiki/Juli_Zeh) - [Nullzeit](https://de.wikipedia.org/wiki/Nullzeit_(Roman)) \
+[Christa Wolf](https://en.wikipedia.org/wiki/Christa_Wolf) - [Medea: Stimmen](https://de.wikipedia.org/wiki/Medea:_Stimmen) \
+[Erwin Strittmatter](https://en.wikipedia.org/wiki/Erwin_Strittmatter) - [Der Laden (Teil 1)](https://portal.dnb.de/opac.htm?referrer=Wikipedia&method=enhancedSearch&index=num&term=3351030061&operator=and)
+
+## January
+
+[Tschingis Aitmatow](https://en.wikipedia.org/wiki/Chinghiz_Aitmatov) - [Dschamilja](https://en.wikipedia.org/wiki/Jamila_(novel))
+
 ## 2020
 
-### July
-
+[Christa Wolf](https://en.wikipedia.org/wiki/Christa_Wolf) - [Ein Tag im Jahr](https://de.wikipedia.org/wiki/Ein_Tag_im_Jahr) \
 [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan) - [Permutation City](https://en.wikipedia.org/wiki/Permutation_City) \
 [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan) - [Diaspora](https://en.wikipedia.org/wiki/Diaspora_(novel)) \
-[Martin Suter](https://en.wikipedia.org/wiki/Martin_Suter) - Der letzte Weynfeldt
-
-### March
-
-[Gibson, William](https://www.goodreads.com/author/show/9226.William_Gibson) - [Agency](https://www.goodreads.com/book/show/40179612-agency)
-
-### January
-
-[Brokken, Jan](https://www.goodreads.com/author/show/1182281.Jan_Brokken) - [Sibirische Sommer mit Dostojewski](https://www.goodreads.com/book/show/43455861-sibirische-sommer-mit-dostojewski)
+[Martin Suter](https://en.wikipedia.org/wiki/Martin_Suter) - Der letzte Weynfeldt \
+[Gibson, William](https://www.goodreads.com/author/show/9226.William_Gibson) - [Agency](https://www.goodreads.com/book/show/40179612-agency) \
+[Brokken, Jan](https://www.goodreads.com/author/show/1182281.Jan_Brokken) - [Sibirische Sommer mit Dostojewski](https://www.goodreads.com/book/show/43455861-sibirische-sommer-mit-dostojewski) 
 
 ## 2019
 
@@ -210,3 +218,12 @@ Robinson Crusoe - Daniel Defoe \
 Annihilation
 
 ## Box1
+
+J.D. Salinger - Der Fänger im Roggen \
+Nich Hornby - High Fidelity \
+Yann Martel - Schiffbruch mit Tiger \
+Charles Webb - Die Reifeprüfung \
+Francois Lelord - Hector und die Suche nach dem Glück \
+Rita Mae Brown - Rubinroter Dschungel \
+Trueman Capote - Kaltblütig \
+Douglas Coupland - Generation X \

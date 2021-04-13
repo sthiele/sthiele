@@ -23,9 +23,12 @@ build_search_index = false
 # theme = "hyde"
 
 taxonomies = [
-    {name = "tags", rss = true},
+    {name = "tags", feed = true},
 ]
 title = "sthiele::weblog"
+
+[markdown]
+highlight_code = true
 
 [extra]
 # Put all your custom variables here
