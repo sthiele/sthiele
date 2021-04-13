@@ -16,7 +16,7 @@ tags = ["Reading"]
 
 ## 2021
 
-# April
+### April
 
 [Heinrich Mann](https://de.wikipedia.org/wiki/Heinrich_Mann) - [Der Untertan](https://de.wikipedia.org/wiki/Der_Untertan) \
 [Eric Emmanuel Schmitt](https://en.wikipedia.org/wiki/%C3%89ric-Emmanuel_Schmitt) - [Oskar und die Dame in Rosa](https://de.wikipedia.org/wiki/Oskar_und_die_Dame_in_Rosa) \
@@ -25,7 +25,7 @@ tags = ["Reading"]
 [Christa Wolf](https://en.wikipedia.org/wiki/Christa_Wolf) - [Medea: Stimmen](https://de.wikipedia.org/wiki/Medea:_Stimmen) \
 [Erwin Strittmatter](https://en.wikipedia.org/wiki/Erwin_Strittmatter) - [Der Laden (Teil 1)](https://portal.dnb.de/opac.htm?referrer=Wikipedia&method=enhancedSearch&index=num&term=3351030061&operator=and)
 
-## January
+### January
 
 [Tschingis Aitmatow](https://en.wikipedia.org/wiki/Chinghiz_Aitmatov) - [Dschamilja](https://en.wikipedia.org/wiki/Jamila_(novel))
 
@@ -226,4 +226,4 @@ Charles Webb - Die Reifeprüfung \
 Francois Lelord - Hector und die Suche nach dem Glück \
 Rita Mae Brown - Rubinroter Dschungel \
 Trueman Capote - Kaltblütig \
-Douglas Coupland - Generation X \
+Douglas Coupland - Generation X
