@@ -38,9 +38,10 @@ To deal with minimum (resp. maximum) constraints we introduce a new consistency 
 
 **Rule 2 (obey minima/maxima)**: A variable that is on its minimum cannot decrease and an variable at its maximum cannot increase.
 *Let (V,E,σ) be an IG, MIN ⊆ V variables that are at their minimum, and MAX ⊆ V variables that are at their maximum. Then a labeling μ : V →{+,–,0} satisfies Rule 2 for node i ∈ V iff*
-* *μ(i) = 0, or*
-* *μ(i) = –, and i ∉ MIN, or*
-* *μ(i) = +, and i ∉ MAX.*
+
+- *μ(i) = 0, or*
+- *μ(i) = –, and i ∉ MIN, or*
+- *μ(i) = +, and i ∉ MAX.*
 
 *Rule 2* allows us to exclude solutions that violate the constraints on minimal/maximal values.
 In *Figure 2* only labeling *μ<sub>1</sub>* satisfies both consistency rules *1* and *2*.
