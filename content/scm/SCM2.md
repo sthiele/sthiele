@@ -24,7 +24,7 @@ we denote the set of nodes that represent input variables with *I ⊆ V*.
 Because input nodes are controlled externally,
 they are excluded from the sign consistency rules.
 
-For the closed system shown in *Figure 1*, there exists no single labeling *μ : V→{+,–,0}*, with *μ(a) = + and μ(b) = –* that satisfies *Rule 1* for all *v ∈ V*.
+For the closed system shown in *Figure 1*, there exists no single labeling *μ : V→{+,–,0}*, with *μ(a) = +* and *μ(b) = –* that satisfies *Rule 1* for all *v ∈ V*.
 In other words, there exists no transition between steady states where *a* increases and *b* decreases. 
 Because *a* is the only predecessor of *b*, between all steady states changes in *a* and *b* must have the same sign.
 
@@ -35,7 +35,7 @@ Because *a* is the only predecessor of *b*, between all steady states changes in
 We can interpret our model as an open system,
 were the value of *b* is determined by the environment by declaring *b* as input variable.
 With perturbations we can now take control over the input variables and find out how the system behaves under different environmental conditions. 
-For example we can now find out how our system reacts to a decrease in *b*. *Figure 2* shows all labelings *μ<sub>i</sub>* that satisfy *Rule 1* for all *v ∈ V \ I* with *I = {b}* and *μ<sub>i</sub>(a) = + and μ<sub>i</sub>(b) = –*.
+For example we can now find out how our system reacts to a decrease in *b*. *Figure 2* shows all labelings *μ<sub>i</sub>* that satisfy *Rule 1* for all *v ∈ V \ I* with *I = {b}* and *μ<sub>i</sub>(a) = +* and *μ<sub>i</sub>(b) = –*.
 Input nodes are denoted with a black incoming arrow.
 
 ![COL2](/scm/COL2.png)

@@ -18,7 +18,7 @@ In this part I will introduce a new rule that discards solutions that violate mi
 A lot of variables in biological systems have minimum (resp. maximum) constraints. 
 Concentration level cannot go below 0 or above 100%, and signals which are below the detection threshold cannot drop any further. 
 Figure *1* shows an IG with four variables *a*, *b*, *c* and *d*.
-Lets say the variable *c* represent a concentration and only values in the range of 0 to 100 are valid.
+Let's say the variable *c* represent a concentration and only values in the range of 0 to 100 are valid.
 Further, we know that in our reference state *S<sub>R</sub>* the variable *c* is at its minimum. 
 Let’s try to find all labelings *μ<sub>i</sub>* that represent transisitions from *S<sub>R</sub>* to a state *S<sub>i</sub>* where the level of *d* has increased, *μ<sub>i</sub>(d) = +*.
 Figure *2* shows all labelings *μ<sub>i</sub>* that satisfy consistency *Rule 1*.
@@ -38,9 +38,9 @@ To deal with minimum (resp. maximum) constraints we introduce a new consistency 
 
 **Rule 2 (obey minima/maxima)**: A variable that is on its minimum cannot decrease and an variable at its maximum cannot increase.
 *Let (V,E,σ) be an IG, MIN ⊆ V variables that are at their minimum, and MAX ⊆ V variables that are at their maximum. Then a labeling μ : V →{+,–,0} satisfies Rule 2 for node i ∈ V iff*
-+ *μ(i) = 0, or*
-+ *μ(i) = –, and i∉MIN or*
-+ *μ(i) = +, and i∉MAX.*
+* *μ(i) = 0, or*
+* *μ(i) = –, and i ∉ MIN, or*
+* *μ(i) = +, and i ∉ MAX.*
 
 *Rule 2* allows us to exclude solutions that violate the constraints on minimal/maximal values.
 In *Figure 2* only labeling *μ<sub>1</sub>* satisfies both consistency rules *1* and *2*.

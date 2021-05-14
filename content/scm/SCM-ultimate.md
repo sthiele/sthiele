@@ -164,7 +164,7 @@ In this section I will introduce a new rule that discards solutions that violate
 A lot of variables in biological systems have minimum (resp. maximum) constraints. 
 Concentration level cannot go below 0 or above 100%, and signals which are below the detection threshold cannot drop any further. 
 Figure *1* shows an IG with 4 variables *a*, *b*, *c* and *d*.
-Lets say the variable *c* represent a concentration and only values in the range of 0 to 100 are valid.
+Let's say the variable *c* represent a concentration and only values in the range of 0 to 100 are valid.
 Further, we know that in our reference state *SR* the variable *c* is at its minimum. 
 Let’s try to find all labelings *μ<sub>i</sub>* that represent transisitions from *SR* to a state *S<sub>i</sub>* where the level of *d* has increased, *μ<sub>i</sub>(d) = +*.
 Figure *2* shows all labelings *μ<sub>i</sub>* that satisfy consistency *Rule 1*.

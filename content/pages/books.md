@@ -22,6 +22,7 @@ tags = ["Reading"]
 [Eric Emmanuel Schmitt](https://en.wikipedia.org/wiki/%C3%89ric-Emmanuel_Schmitt) - [Oskar und die Dame in Rosa](https://de.wikipedia.org/wiki/Oskar_und_die_Dame_in_Rosa) \
 [Eric Emmanuel Schmitt](https://en.wikipedia.org/wiki/%C3%89ric-Emmanuel_Schmitt) - [Das Kind von Noah](https://de.wikipedia.org/wiki/Das_Kind_von_Noah) \
 [Juli Zeh](https://en.wikipedia.org/wiki/Juli_Zeh) - [Nullzeit](https://de.wikipedia.org/wiki/Nullzeit_(Roman)) \
+Cho Nam-Joo - Kim Jiyoung, Geboren 1982 \
 [Christa Wolf](https://en.wikipedia.org/wiki/Christa_Wolf) - [Medea: Stimmen](https://de.wikipedia.org/wiki/Medea:_Stimmen) \
 [Erwin Strittmatter](https://en.wikipedia.org/wiki/Erwin_Strittmatter) - [Der Laden (Teil 1)](https://portal.dnb.de/opac.htm?referrer=Wikipedia&method=enhancedSearch&index=num&term=3351030061&operator=and)
 
